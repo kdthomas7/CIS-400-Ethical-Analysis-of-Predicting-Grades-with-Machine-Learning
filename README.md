@@ -1,4 +1,4 @@
-# CIS-400-final-project
+# Ethical Analysis of Predicting Grades with Machine Learning
 
 ## Abstract
 The importance of tools that help in understanding the predictions and decisions a machine 
